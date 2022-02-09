@@ -1,0 +1,186 @@
+#cidades{
+    padding: 020px;
+    width: 2000px;
+    height: 1300px;
+    border: 2px solid black;
+
+}
+
+.capitais{
+
+    padding: 20px;
+    border: 1px solid black;
+    width: 300px;
+    height: 150px;
+    margin-bottom: 20px;
+    margin-right: 25px;
+    float: left;
+    background: whitesmoke;
+}
+
+.img {
+
+    width:100px;
+    height: 100px;
+    float: left;    
+    
+}
+
+div{
+    text-align: right;
+    font-family: sans-serif
+    
+}
+
+h3{
+
+    border: ridge black;
+    display: inline;    
+    border-bottom: 1px solid black;
+
+}
+
+body{
+
+    background-color: rgb(228, 212, 212);
+}
+
+#c1{
+    
+ border: 1px dashed red;
+ border-radius: 20px;
+
+}
+
+#c2 {
+
+    border-radius: 10px;
+}
+
+#c3 {
+
+    border-radius: 44px 46px 2px;
+}
+
+#c4 {
+
+    border-radius: 19px 0 78px 4px;
+
+}
+#c5 {
+
+    border-radius: 10px 45% / 20px;
+}
+#c6 {
+
+    border-radius: 10px 5% / 20px;
+}
+
+#c7 {
+
+    border-radius: 10px 5% / 20px 30px;
+
+}
+#c8 {
+
+    border-radius: 10px 5px 2em / 20px 25px 30%;
+}
+
+#c9 {
+
+    border-radius: 10px 15% / 20px 25em 30px 35em;
+
+}
+
+#c10{
+
+    border: 1px dashed rgb(228, 87, 87);
+    border-radius: 10px 10% / 20px;
+}
+
+#c11 {
+
+    border-radius: 8px 9px 10px;
+}
+
+
+#c12 {
+
+    border-radius: 10px 15% / 20px 20px;
+}
+
+#c13 {
+
+    border-radius: 30px;
+}
+
+#c14 {
+
+    border-radius: 15px 15% / 20px;
+}
+
+#c15 {
+
+    border-radius: 30px;
+}
+
+#c16 {
+
+    border-radius: 20px 15% / 40px;
+}
+
+#c17 {
+
+    border-radius: 48px 19px 20px;
+}
+
+#c18 {
+
+    border-radius: 20px 17% / 21px 20px;
+}
+
+
+#c19 {
+
+    border-radius: 20px 25% / 34px;
+}
+
+#c20 {
+
+    border-radius: 68px;
+}
+
+#c21 {
+
+    border-radius: 49px;
+}
+
+#c22 {
+
+    border-radius: 60px 15% / 34px;
+}
+
+#c23 {
+
+    border-radius: 50px 37% / 26px 30px;
+}
+
+
+#c24 {
+
+    border-radius: 58px 12px 50px;
+}
+
+#c25 {
+
+    border-radius: 50px 35% / 24px;
+}
+#c26 {
+
+    border-radius: 50px;
+}
+
+#c27 {
+
+    border-radius: 40px 27% / 21px 30px;
+}
